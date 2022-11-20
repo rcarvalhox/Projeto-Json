@@ -1,0 +1,116 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "MONITOR GAMER CEPHEUS VPRO24",
+      "descrição": "24.5 POL., IPS, FHD, 1MS, 360HZ, FREESYNC, PG-CFVPRO24-BL01",
+      "preco": "2.999"
+    },
+    {
+      "id": 2,
+      "nome": "MONITOR GAMER CEPHEUS VPRO24",
+      "descrição": "24.5 POL., IPS, FHD, 1MS, 360HZ, FREESYNC, PG-CFVPRO24-BL01",
+      "preco": "2.999"
+    },
+    {
+      "id": 3,
+      "nome": "Headset Gamer Redragon",
+      "descrição": "AJAX, H230",
+      "preco": "175.90"
+    },
+    {
+      "id": 4,
+      "nome": "MONITOR GAMER CEPHEUS VPRO24",
+      "descrição": "24.5 POL., IPS, FHD, 1MS, 360HZ, FREESYNC, PG-CFVPRO24-BL01",
+      "preco": "2.999"
+    },
+    {
+      "id": 5,
+      "name": "Gabinete NZXT",
+      "descrição": "H210i Preto/Vermelho, CA-H210i-BR",
+      "preco": "1000"
+    },
+    {
+      "id": 6,
+      "nome": "MONITOR GAMER CEPHEUS VPRO24",
+      "descrição": "24.5 POL., IPS, FHD, 1MS, 360HZ, FREESYNC, PG-CFVPRO24-BL01",
+      "preco": "2.999"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Monitor",
+      "tamanho da tela": "24.5",
+      "tipo de tela": "Plano"
+    },
+    {
+      "id": 2,
+      "nome": "Gabinete",
+      "formato": "m-ATX",
+      "material": "Plástico ABS, Acço SPCC 0,35 e 0,45, Vidro temperado 3mm"
+    },
+    {
+      "id": 3,
+      "nome": "Headset",
+      "driver": "53mm",
+      "sensibilidade": "114 +- 3 dB"
+    },
+    {
+      "id": 4,
+      "nome": "Monitor",
+      "tamanho da tela": "27",
+      "tipo de tela": "Plano"
+    },
+    {
+      "id": 5,
+      "nome": "Gabinete",
+      "formato": "ITX",
+      "material": "Aço SGCC, Vidro Temperado"
+    },
+    {
+      "id": 6,
+      "nome": "Headset",
+      "driver": "50mm",
+      "sensibilidade": "109 db ± 3 dB"
+    }
+  ],
+  "modelos": [
+    {
+      "id": 1,
+      "modelo": "PG-CFVPRO24-BL01",
+      "marca": "Pichau",
+      "tipo de painel": "16:9"
+    },
+    {
+      "id": 2,
+      "modelo": "MCR-DRD-BK01",
+      "marca": "Mancer",
+      "dimensões": "330 x 200 x 440 mm"
+    },
+    {
+      "id": 3,
+      "modelo": "H230",
+      "marca": "Redragon",
+      "tipo de microfone": "Omnidirecional"
+    },
+    {
+      "id": 4,
+      "modelo": "LF27T350FHLMZD",
+      "marca": "Samsung",
+      "tipo de painel": "IPS"
+    },
+    {
+      "id": 5,
+      "modelo": "CA-H210i-BR",
+      "marca": "Pichau",
+      "dimensões": "Com pés: 210 x 349 x 372 mm"
+    },
+    {
+      "id": 6,
+      "modelo": "70555",
+      "marca": "Fortrek",
+      "tipo de microfone": "Removível"
+    }
+  ]
+}
